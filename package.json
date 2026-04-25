@@ -138,6 +138,6 @@
     "typescript": "^6.0.2"
   },
   "overrides": {
-    "jsdom": "29.0.2"
+    "jsdom": "^29.0.2"
   }
 }
