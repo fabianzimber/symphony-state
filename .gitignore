@@ -13,3 +13,4 @@ pnpm-debug.log*
 # Demo app
 demo/.next
 demo/node_modules
+demo/next-env.d.ts
